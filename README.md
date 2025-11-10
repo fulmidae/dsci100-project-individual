@@ -1,2 +1,3 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# Individual Project Planning for DSCI 100
+
+This is my individual portion for DSCI 100's final project. 
